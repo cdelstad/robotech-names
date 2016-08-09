@@ -1,3 +1,3 @@
 # robotech-names
 
-For all your random Star Wars character needs
+For all your random Robotech character needs
