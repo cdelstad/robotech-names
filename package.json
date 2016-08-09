@@ -1,5 +1,5 @@
 {
-  "name": "starwars-names",
+  "name": "robotech-names",
   "version": "1.0.0",
   "description": "Get random Star Wars names",
   "main": "dist/index.js",
@@ -16,7 +16,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/kentcdodds/starwars-names.git"
+    "url": "git+https://github.com/cdelstad/robotech-names.git"
   },
   "keywords": [
     "random",
@@ -25,12 +25,12 @@
   "files": [
     "dist"
   ],
-  "author": "Kent C. Dodds <kent@doddsfamily.us> (http://kentcdodds.com/)",
+  "author": "Chad Elstad <cde008@gmail.com> (http://smartmarbles.com/)",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/kentcdodds/starwars-names/issues"
+    "url": "https://github.com/cdelstad/robotech-names/issues"
   },
-  "homepage": "https://github.com/kentcdodds/starwars-names#readme",
+  "homepage": "https://github.com/cdelstad/robotech-names#readme",
   "dependencies": {
     "unique-random-array": "1.0.0"
   },
