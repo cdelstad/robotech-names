@@ -12,6 +12,7 @@
     "test": "cross-env NODE_ENV=test nyc mocha",
     "watch:test": "mocha --watch",
     "lint": "eslint src",
+    "report-coverage":"cat ./coverage/lcov.info codecov",
     "validate": "npm-run-all --parallel test lint build"
   },
   "repository": {
